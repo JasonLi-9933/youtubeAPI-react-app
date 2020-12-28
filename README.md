@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Checkout the web app [here](https://5fe958768235756edf6a42cb--youtubeapi-reactapp.netlify.app/).
+# Checkout the web app [here](https://5fe958768235756edf6a42cb--youtubeapi-reactapp.netlify.app/).
 
 ## Available Scripts
 
